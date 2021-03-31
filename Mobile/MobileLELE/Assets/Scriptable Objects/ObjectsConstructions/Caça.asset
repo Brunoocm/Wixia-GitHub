@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd69f88766bf8484f8d506957e5d9780, type: 3}
+  m_Name: "Ca\xE7a"
+  m_EditorClassIdentifier: 
+  name: Hunt
+  nameConstruction: Armazem de Carne
+  infoConstruction: "\xC9 adicionado 2 comidas a cada 10 segundos"
+  artwork: {fileID: 21300000, guid: 44f9fa9a0306d794093a495eae0d8ae5, type: 3}
+  balao: {fileID: 21300000, guid: 8468b9e4a45cc9745aba21cda2153f1e, type: 3}
+  maxStore: 4000
+  itemValue: 30
+  timerValue: 20
+  timerInicio: 4.7770324
+  canCollect: 1
+  numConstructions: 1
+  vetorConstructions:
+  - {fileID: 0}
+  checkRadius: 0
+  areaDouble: 1
+  LayerDouble:
+    serializedVersion: 2
+    m_Bits: 256

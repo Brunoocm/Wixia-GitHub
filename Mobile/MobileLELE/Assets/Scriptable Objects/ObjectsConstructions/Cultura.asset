@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd69f88766bf8484f8d506957e5d9780, type: 3}
+  m_Name: Cultura
+  m_EditorClassIdentifier: 
+  name: Culture
+  nameConstruction: "Cabana do Paj\xE9"
+  infoConstruction: Cabana que acalma os espiritos da redondeza
+  artwork: {fileID: 21300000, guid: ae47c1f410f5a4747b7d308352b09bbd, type: 3}
+  balao: {fileID: 0}
+  maxStore: 4000
+  itemValue: 1
+  timerValue: 20
+  timerInicio: 4.432933
+  canCollect: 0
+  numConstructions: 1
+  vetorConstructions:
+  - {fileID: 0}
+  checkRadius: 0
+  areaDouble: 0
+  LayerDouble:
+    serializedVersion: 2
+    m_Bits: 0
